@@ -1,5 +1,6 @@
 package com.zhitu.workshop.springbootdemo.bo;
 
+// 用户类
 public class User {
     private Integer id;
 
@@ -30,5 +31,4 @@ public class User {
     public void setEmail(String email) {
         this.email = email;
     }
-
 }
